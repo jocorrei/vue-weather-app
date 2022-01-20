@@ -1,25 +1,9 @@
 # weather-app
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+## Project
+This is a simple Vue weather App that fetches data from an API.
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Check [Website](https://jocorrei.github.io/vue-weather-app).
+
 # vue-weather-app
