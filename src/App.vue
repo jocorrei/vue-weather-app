@@ -35,7 +35,7 @@ export default {
   data () {
     return {
       api_key: process.env.VUE_APP_API_KEY,
-      url_base: 'http://api.weatherapi.com/v1/current.json?key=',
+      url_base: 'https://api.weatherapi.com/v1/current.json?key=',
       query: '',
       weather: {},
       joker: null,
